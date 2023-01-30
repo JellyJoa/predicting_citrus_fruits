@@ -1,1 +1,1 @@
-# predicting_citrus_fruits
+# 감귤 착과량 예측 AI 경진대회
